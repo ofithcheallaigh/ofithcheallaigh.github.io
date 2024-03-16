@@ -4,16 +4,16 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #c981f3;
   }
   
-  h1, h2, h3 {
+  h1, h2 {
     color: #444;
     /* color: #cc4949; */
   }
 
   h3 {
-    color: #444;
+    color: #c09538;
     /* color: #cc4949; */
   }
   
