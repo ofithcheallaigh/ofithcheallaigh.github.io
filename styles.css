@@ -7,6 +7,15 @@ body {
     background-color: #f2f3f5;
   }
   
+  .static-image {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100px; /* adjust this to change the size of the image */
+    height: auto; /* maintain aspect ratio */
+}
+
+
   h1, h2 {
     color: #444;
     /* color: #cc4949; */
