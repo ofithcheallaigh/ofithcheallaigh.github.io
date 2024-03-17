@@ -10,7 +10,7 @@ body {
   .static-image {
     position: fixed;
     left: 1;
-    top: 1;
+    top: 0.1;
     width: 200px; /* adjust this to change the size of the image */
     height: auto; /* maintain aspect ratio */
 }
