@@ -9,9 +9,9 @@ body {
   
   .static-image {
     position: fixed;
-    left: 100px;
+    left: 400px;
     top: 100px;
-    width: 200px; /* adjust this to change the size of the image */
+    width: 250px; /* adjust this to change the size of the image */
     height: auto; /* maintain aspect ratio */
 }
 
