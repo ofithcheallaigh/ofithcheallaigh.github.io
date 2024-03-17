@@ -4,5 +4,5 @@ logo: /assets/img/me.jpg
 show_downloads: false
 github_username:  ofithcheallaigh
 # theme: jekyll-theme-minimal
-# theme: minima 
-remote_theme: jekyll/minima
+theme: minima 
+# remote_theme: jekyll/minima
