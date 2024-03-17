@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<div class="about">
+<head>
+  <link rel="stylesheet" type="text/css" href="/styles.css">
+</head>
 
 About me.
