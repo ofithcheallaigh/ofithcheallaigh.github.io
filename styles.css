@@ -58,3 +58,7 @@ body {
   .post p {
     margin-top: 20px;
   }
+
+  .post-title {
+    font-size: 20px;
+}
