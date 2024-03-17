@@ -11,7 +11,7 @@ body {
     position: fixed;
     left: 50;
     top: 50;
-    width: 300px; /* adjust this to change the size of the image */
+    width: 200px; /* adjust this to change the size of the image */
     height: auto; /* maintain aspect ratio */
 }
 
