@@ -9,9 +9,9 @@ profile:
   image: me.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ulster University,</p>
-    <p>Room BC-03-315,</p>
-    <p>2-24 York St,</p>
+    <p>Ulster University,<br>
+    <p>Room BC-03-315,<br>
+    <p>2-24 York St,<br>
     <p>Belfast, BT15 1AP</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
