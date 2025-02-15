@@ -30,7 +30,17 @@
       "startDate": "2025-01-13",
       "endDate": "",
       "summary": "Assist the lecture staff in delivering the practical elements of a module; review lab meterial to ensure there are no issues and highligh any as required; review and edit lab work books.",
-      "highlights": ["Relativity"]
+      "highlights": ["Teaching"]
+    },
+
+    {
+      "name": "Sensata",
+      "position": "Electronics/Software Engineer",
+      "url": "https://www.sensata.com/",
+      "startDate": "2012-09-03",
+      "endDate": "2025-01-01",
+      "summary": "Worked to develop the hardware and software used in the next generation of Tyre Pressure Monitor Systems (TPMS), including the development of BLE sensors, as part of multi-million dollar contracts with Mercedes and Ford; developed data capture system used extensively on test vehicles in Europe, America and China, which reduced the time taken for prototype development; used Python to automate in-house test equipment to allow more efficient use of test equipment.",
+      "highlights": ["PCB Design, Algorithm Development, Data collection and analysis, Scrum master"]
     }
   ],
   "volunteer": [
