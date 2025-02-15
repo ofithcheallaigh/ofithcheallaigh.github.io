@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Seán Ó Fithcheallaigh",
+    "label": "PhD Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "o_fithcheallaigh-s@ulster.ac.uk",
+    "phone": "",
+    "url": "https://pure.ulster.ac.uk/en/persons/sean-o-fithcheallaigh",
+    "summary": "PhD researcher, focusing on federated learning, with a background in electronic engineering and software development.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Ulster University, Rm: BC-04-315",
+      "postalCode": "BT15 1AP",
+      "city": "Belfast",
+      "countryCode": "UK",
+      "region": "N. Ireland"
     },
     "profiles": [
       {
@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Ulster University",
+      "position": "Lab Demonstrator",
+      "url": "",
+      "startDate": "2025-01-13",
+      "endDate": "",
+      "summary": "Assist the lecture staff in delivering the practical elements of a module; review lab meterial to ensure there are no issues and highligh any as required; review and edit lab work books.",
       "highlights": ["Relativity"]
     }
   ],

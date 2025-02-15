@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ulster University,<br>
-    Room BC-03-315,<br>
+    Room BC-04-315,<br>
     2-24 York St,<br>
     Belfast, BT15 1AP</p>
 
