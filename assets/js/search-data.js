@@ -410,12 +410,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-this-is-my-new-site-and-it-is-very-much-under-development-and-i-do-have-one-or-two-other-things-going-on-so-it-might-be-developing-for-a-while",
+    },{id: "news-this-is-my-new-site-and-it-is-very-much-under-development-and-i-do-have-one-or-two-other-things-going-on-so-it-might-be-developing-for-a-while",
           title: 'This is my new site, and it is very much under development. And...',
           description: "",
           section: "News",},{id: "projects-project-1",
