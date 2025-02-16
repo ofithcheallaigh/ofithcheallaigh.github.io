@@ -45,27 +45,38 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "16th International Conference on Ubiquitous Computing and Ambient Intelligence",
+      "location": "Belfast, N. Ireland",
+      "position": "Conference Volunteer",
+      "url": "https://www.ucami.org/",
+      "startDate": "2024-11-27",
+      "endDate": "2024-11-29",
+      "summary": "Assisting the conference organisers and delegates as needed (i.e., registering delegates, audio and visual set up, guiding delegates around the venue.",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Ulster University, Belfast",
+      "location": "Belfast, N. Ireland",
+      "url": "www.ulster.ac.uk",
+      "area": "Artificial Intelligence",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2024-01-15",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Ulster University, Belfast",
+      "location": "Belfast, N. Ireland",
+      "url": "www.ulster.ac.uk",
+      "area": "Artificial Intelligence",
+      "studyType": "MSc",
+      "startDate": "2020-09-01",
+      "endDate": "2023-06-01",
+      "score": "Distinction",
+      "courses": [""]
     }
   ],
   "awards": [
