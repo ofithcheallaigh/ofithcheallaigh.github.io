@@ -90,9 +90,9 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "PowerBI: Dashboards for Beginners",
+      "date": "2022-05-29",
+      "issuer": "LinkedIn Learning",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
