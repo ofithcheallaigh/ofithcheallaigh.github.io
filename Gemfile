@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
+gem 'i18n', '1.14.7'  # Add this line
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do

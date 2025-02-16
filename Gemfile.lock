@@ -100,7 +100,7 @@ GEM
       csv
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
-    i18n (1.14.6)
+    i18n (1.14.7)
       concurrent-ruby (~> 1.0)
     jekyll (4.3.4)
       addressable (~> 2.4)
@@ -268,6 +268,7 @@ DEPENDENCIES
   css_parser
   feedjira
   httparty
+  i18n (= 1.14.7)
   jekyll
   jekyll-archives
   jekyll-email-protect
