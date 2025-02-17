@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-a-post-of-nonsense",
+        },{id: "post-a-intro-to-knowledge-graphs",
+      
+        title: "A Intro to Knowledge Graphs",
+      
+      description: "A post about knowledge graphs",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/knowledge-graphs/";
+        
+      },
+    },{id: "post-a-post-of-nonsense",
       
         title: "A post of nonsense",
       
