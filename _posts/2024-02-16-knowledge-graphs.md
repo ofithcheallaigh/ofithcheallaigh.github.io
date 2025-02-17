@@ -17,12 +17,21 @@ It is important to understand that there is a distinction between the 'graph' of
 
 The image below is of a representation of a KG:
 
-<figure>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/simple_kg.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    KG Image [[1]](#ref1).
+</div>
+
+<!-- <figure>
   <p align="center">
     <img src="/assets/img/simple_kg.png" alt="Fig 1: KG Image">
   </p>
   <p align="center"><a name="fig1">Fig 1:</a> KG Image [[1]](#ref1).</p>
-</figure>
+</figure> -->
 
 These graphs can be referred to an networks -- they are a powerful way to describe how things are connected. 
 
@@ -48,12 +57,9 @@ The figure below illustrates this relationship in a simple property graph which 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="/assets/img/property_graph_relationship.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+    Image shows Property Graph relationships.
 </div>
 
 
@@ -74,6 +80,16 @@ The property graph model is the most popular model for modern databases, and, as
 - **Relationships** represent how entities interrelate. Relationships have a type, such as "bought" or "liked", and have a direction, for example going from one node to another, or back to the same node. Relationships can contain zero or more properties, which are key-value pairs<sup>[1](#myfootnote1)</sup> representing some characteristics of the link, such as timestamps or distance. Also, relationships never dangle -- there is always a start and an end node (which can be the same node).
 
 Figure [[3]](#fig3) shows a more detailed KG, which is taken directly from [[1]](#ref1).
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/larger_graph.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Image shows Property Graph relationships.
+</div>
+
 
 <!-- <figure>
     <p align="center">
