@@ -17,7 +17,6 @@ It is important to understand that there is a distinction between the 'graph' of
 
 The image below is of a representation of a KG:
 
-
 <figure>
   <p align="center">
     <img src="/assets/img/simple_kg.png" alt="Fig 1: KG Image">
@@ -47,7 +46,7 @@ The figure below illustrates this relationship in a simple property graph which 
 
 <figure>
     <p align="center">
-        <img src="C:\Users\B00830189\OneDrive - Ulster University\Projects\ofithcheallaigh.github.io\assets\img\property_graph_relationship.png" alt="Fig 2" width="500" height="200">
+        <img src="/assets/img/property_graph_relationship.png" alt="Fig 2" width="500" height="200">
     </p>
     <p align="center"><a name="fig2">Fig 2:</a> Image shows Property Graph relationships</p> 
 </figure>
@@ -65,11 +64,10 @@ Figure [[3]](#fig3) shows a more detailed KG, which is taken directly from [[1]]
 
 <figure>
     <p align="center">
-        <img src="/assests/img/larger_graph.png">
+        <img src="/assets/img/larger_graph.png" alt="Fig 3: A Graph Representing People, their Friendships, and their Locations">
     </p>
     <p align="center"><a name="fig3">Fig 3:</a> A Graph Representing People, their Friendships, and their Locations</p>
 </figure>
-
 
 We can see in Fig [[3]](#fig3) that each node has a label that represents a role in the graph. We can see that some nodes are labelled as `Person`, which represents people,  and others are labelled as `Place`, which represents places. As each node will have properties stored inside, such as `name: Rose`, and `gender: 'f'`, which tells us the Rosa is a female person. We can also see that `Karl` and `Fred` have nodes with slightly different properties, and this is not a problem<sup>[2](#myfootnote2)</sup>.
 
