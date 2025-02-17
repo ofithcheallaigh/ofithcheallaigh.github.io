@@ -44,12 +44,25 @@ Each edge has a unique identifier and can have:
 
 The figure below illustrates this relationship in a simple property graph which contains two vertices and one edge. 
 
-<figure>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/property_graph_relationship.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+</div>
+
+
+<!-- <figure>
     <p align="center">
         <img src="/assets/img/property_graph_relationship.png" alt="Fig 2" width="500" height="200">
     </p>
     <p align="center"><a name="fig2">Fig 2:</a> Image shows Property Graph relationships</p> 
-</figure>
+</figure> -->
 
 In Fig [[2]](#fig2) the vertices have identifiers `1` and `2`. Each contains two properties: `name` and `age`. The edge is outgoing from `1` and incoming to `2`, and the edge has the text label `knows` and a property `type` identifying the type of relationship between vertices `1` and `2`.
 
@@ -62,12 +75,12 @@ The property graph model is the most popular model for modern databases, and, as
 
 Figure [[3]](#fig3) shows a more detailed KG, which is taken directly from [[1]](#ref1).
 
-<figure>
+<!-- <figure>
     <p align="center">
         <img src="/assets/img/larger_graph.png" alt="Fig 3: A Graph Representing People, their Friendships, and their Locations">
     </p>
     <p align="center"><a name="fig3">Fig 3:</a> A Graph Representing People, their Friendships, and their Locations</p>
-</figure>
+</figure> -->
 
 We can see in Fig [[3]](#fig3) that each node has a label that represents a role in the graph. We can see that some nodes are labelled as `Person`, which represents people,  and others are labelled as `Place`, which represents places. As each node will have properties stored inside, such as `name: Rose`, and `gender: 'f'`, which tells us the Rosa is a female person. We can also see that `Karl` and `Fred` have nodes with slightly different properties, and this is not a problem<sup>[2](#myfootnote2)</sup>.
 
