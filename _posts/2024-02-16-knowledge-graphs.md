@@ -22,7 +22,7 @@ The image below is of a representation of a KG:
   <p align="center">
     <img src="/assets/img/simple_kg.png" alt="Fig 1: KG Image">
   </p>
-  <p align="center"><a name="fig1">Fig 1:</a> KG Image: Please note, this image is a placeholder, until I generate my own images.</p>
+  <p align="center"><a name="fig1">Fig 1:</a> KG Image [[1]](#ref1).</p>
 </figure>
 
 These graphs can be referred to an networks -- they are a powerful way to describe how things are connected. 
@@ -46,12 +46,11 @@ Each edge has a unique identifier and can have:
 The figure below illustrates this relationship in a simple property graph which contains two vertices and one edge. 
 
 <figure>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/0c767452-c87b-4567-b173-8e73b3089aaf" width="500" height="200">
-<p align="center"><a name="fig2">Fig 2:</a> Image shows Property Graph relationships</p>
+    <p align="center">
+        <img src="assets/img/property_graph_relationsip.png" width="500" height="200">
+    </p>
+    <p align="center"><a name="fig2">Fig 2:</a> Image shows Property Graph relationships</p> 
 </figure>
-</p>
-
 In Fig [[2]](#fig2) the vertices have identifiers `1` and `2`. Each contains two properties: `name` and `age`. The edge is outgoing from `1` and incoming to `2`, and the edge has the text label `knows` and a property `type` identifying the type of relationship between vertices `1` and `2`.
 
 A property graph can have self-edges, which is an edge whose source and destination vertex are the same. 
@@ -64,11 +63,13 @@ The property graph model is the most popular model for modern databases, and, as
 Figure [[3]](#fig3) shows a more detailed KG, which is taken directly from [[1]](#ref1).
 
 <figure>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/00bd1a35-c719-42ff-9bb7-1bd711647cc2">
-<p align="center"><a name="#fig3">Fig 3:</a> A Graph Representing People, their Friendships, and their Locations</p>
-</figure>
-</p>
+    <p align="center">
+        <img src="assests/img/larger_graph.png">
+    </p>
+    <p align="center">
+    <a name="fig3">Fig 3:</a> A Graph Representing People, their Friendships, and their Locations</p>
+    </figure>
+
 
 We can see in Fig [[3]](#fig3) that each node has a label that represents a role in the graph. We can see that some nodes are labelled as `Person`, which represents people,  and others are labelled as `Place`, which represents places. As each node will have properties stored inside, such as `name: Rose`, and `gender: 'f'`, which tells us the Rosa is a female person. We can also see that `Karl` and `Fred` have nodes with slightly different properties, and this is not a problem<sup>[2](#myfootnote2)</sup>.
 
