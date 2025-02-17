@@ -47,7 +47,7 @@ The figure below illustrates this relationship in a simple property graph which 
 
 <figure>
     <p align="center">
-        <img src="assets/img/property_graph_relationsip.png" width="500" height="200">
+        <img src="/assets/img/property_graph_relationsip.png" width="500" height="200">
     </p>
     <p align="center"><a name="fig2">Fig 2:</a> Image shows Property Graph relationships</p> 
 </figure>
@@ -64,10 +64,9 @@ Figure [[3]](#fig3) shows a more detailed KG, which is taken directly from [[1]]
 
 <figure>
     <p align="center">
-        <img src="assests/img/larger_graph.png">
+        <img src="/assests/img/larger_graph.png">
     </p>
-    <p align="center">
-    <a name="fig3">Fig 3:</a> A Graph Representing People, their Friendships, and their Locations</p>
+    <p align="center"><a name="fig3">Fig 3:</a> A Graph Representing People, their Friendships, and their Locations</p>
     </figure>
 
 
