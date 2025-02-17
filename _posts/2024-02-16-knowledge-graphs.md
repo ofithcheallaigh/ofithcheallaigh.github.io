@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Intro to Knowledge Graphs
+title: A Intro to Knowledge Graphs 
 date: 2024-02-17 23:39:01
 description: A post about knowledge graphs
 tags: Knowledge Graphs, AI
@@ -121,3 +121,5 @@ KGs are a specific type of graph, with an emphasis on contextual understanding, 
 ## References
 <a name ="ref1">[1]</a> [Knowledge Graphs (Ch.1)](https://learning.oreilly.com/library/view/knowledge-graphs/9781098104863/ch01.html) - Jesus Barrasa, Amy E. Holder, Jim Webber    
 <a name="ref2">[2]</a> [Graph Developer's Guide for Property Graphs](https://docs.oracle.com/en/database/oracle/property-graph/24.4/spgdg/introduction-property-graphs.html)
+
+For more information, check out my [next post]({% post_url 2024-02-17-building-knowledge-graphs %}).
