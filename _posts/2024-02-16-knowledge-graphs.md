@@ -3,7 +3,7 @@ layout: post
 title: A Intro to Knowledge Graphs 
 date: 2024-02-17 23:39:01
 description: A post about knowledge graphs
-tags: Knowledge Graphs, AI
+tags: Knowledge-Graphs, AI
 categories: Research
 ---
 

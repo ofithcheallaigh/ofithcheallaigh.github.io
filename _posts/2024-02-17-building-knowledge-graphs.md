@@ -3,7 +3,7 @@ layout: post
 title: Building Knowledge Graphs 
 date: 2024-02-17 23:20:01
 description: part 2 in a series of posts on knowledge graphs
-tags: Knowledge Graphs, AI
+tags: Knowledge-Graphs, AI
 categories: Research
 ---
 
