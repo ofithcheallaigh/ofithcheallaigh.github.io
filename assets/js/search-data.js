@@ -80,29 +80,7 @@ ninja.data = [{
           window.location.href = "/blog/2024/building-knowledge-graphs/";
         
       },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/images/";
-        
-      },
-    },{id: "post-a-post-with-formatting-and-links",
-      
-        title: "a post with formatting and links",
-      
-      description: "march &amp; april, looking forward to summer",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/formatting-and-links/";
-        
-      },
-    },{id: "news-this-is-my-new-site-and-it-is-very-much-under-development-and-i-do-have-one-or-two-other-things-going-on-so-it-might-be-developing-for-a-while",
+    },{id: "news-this-is-my-new-site-and-it-is-very-much-under-development-and-i-do-have-one-or-two-other-things-going-on-so-it-might-be-developing-for-a-while-at-the-minute-i-have-started-to-update-my-cv-and-add-some-blog-posts",
           title: 'This is my new site, and it is very much under development. And...',
           description: "",
           section: "News",},{id: "projects-project-1",
