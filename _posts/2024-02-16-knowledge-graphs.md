@@ -18,7 +18,7 @@ It is important to understand that there is a distinction between the 'graph' of
 The image below is of a representation of a KG:
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.liquid loading="eager" path="/assets/img/simple_kg.png" class="img-fluid rounded z-depth-1" width="50%" height="auto" %}
     </div>
 </div>
