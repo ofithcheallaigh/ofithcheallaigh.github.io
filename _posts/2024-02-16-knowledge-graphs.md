@@ -55,7 +55,7 @@ The figure below illustrates this relationship in a simple property graph which 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/property_graph_relationship.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/property_graph_relationship.png" class="img-fluid rounded z-depth-1"  width="50%" height="auto" %}
     </div>
 </div>
 <div class="caption">
