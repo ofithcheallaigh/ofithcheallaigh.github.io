@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: __Every sinner has a future, every saint has a past.__
+subtitle: _Every sinner has a future, every saint has a past._
 
 profile:
   align: right
