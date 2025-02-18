@@ -58,18 +58,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-a-intro-to-knowledge-graphs",
-      
-        title: "A Intro to Knowledge Graphs",
-      
-      description: "A post about knowledge graphs",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/knowledge-graphs/";
-        
-      },
-    },{id: "post-building-knowledge-graphs",
+        },{id: "post-building-knowledge-graphs",
       
         title: "Building Knowledge Graphs",
       
@@ -78,6 +67,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/building-knowledge-graphs/";
+        
+      },
+    },{id: "post-a-intro-to-knowledge-graphs",
+      
+        title: "A Intro to Knowledge Graphs",
+      
+      description: "A post about knowledge graphs",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/knowledge-graphs/";
         
       },
     },{id: "news-this-is-my-new-site-and-it-is-very-much-under-development-and-i-do-have-one-or-two-other-things-going-on-so-it-might-be-developing-for-a-while-at-the-minute-i-have-started-to-update-my-cv-and-add-some-blog-posts",
