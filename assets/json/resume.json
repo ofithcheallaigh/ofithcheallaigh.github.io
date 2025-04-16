@@ -167,12 +167,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "An Embedded Machine Learning Approach to Assist Navigation for People with Visual Impairments",
+      "summary": "Investigated the development of a system to assist people with sight loss navigate an unknown environment, using machine learning techniques. The system was developed using Arduino Nano microcontrollers.",
+      "highlights": ["Arduino Nano", "Machine Learning"],
+      "startDate": "2023-01-15",
+      "endDate": "2023-06-01",
+      "url": ""
     }
   ]
 }
