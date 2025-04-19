@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building Knowledge Graphs 
+title: Building Knowledge Graphs
 date: 2024-02-17 23:20:01
 description: part 2 in a series of posts on knowledge graphs
 tags: Knowledge-Graphs, AI
@@ -15,6 +15,7 @@ We can think or the organising principles in a similar way to schemas -- they or
 
 
 # References
-<a name ="ref1">[1]</a> [Knowledge Graphs (Ch.1)](https://learning.oreilly.com/library/view/knowledge-graphs/9781098104863/ch02.html) - Jesus Barrasa, Amy E. Holder, Jim Webber  
+
+<a name="ref1">[1]</a> [Knowledge Graphs (Ch.1)](https://learning.oreilly.com/library/view/knowledge-graphs/9781098104863/ch02.html) - Jesus Barrasa, Amy E. Holder, Jim Webber  
 
 <a name="ref2">[2]</a> [Neo4j - What is a Knowledge Graph](https://neo4j.com/blog/what-is-knowledge-graph/)

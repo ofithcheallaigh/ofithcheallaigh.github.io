@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Intro to Knowledge Graphs 
+title: A Intro to Knowledge Graphs
 date: 2024-02-16 23:39:01
 description: A post about knowledge graphs
 tags: Knowledge-Graphs, AI
@@ -11,7 +11,7 @@ categories: Research
 
 ## Introduction
 
-Over the course of the last decade, graph data has become ubiquitous, underpinning everything from consumer facing systems like navigation and social networks, to critical infrastructure, such as supply chains and policing. 
+Over the course of the last decade, graph data has become ubiquitous, underpinning everything from consumer facing systems like navigation and social networks, to critical infrastructure, such as supply chains and policing.
 
 Through research, and practical implementation, the concept of knowledge graphs [KG] has been developed to support the extraction of knowledge from data. This knowledge is used to provide context to the data.
 
@@ -94,7 +94,6 @@ Figure [[3]](#fig3) shows a more detailed KG, which is taken directly from [[1]]
     Image shows Property Graph relationships.
 </div>
 
-
 <!-- <figure>
     <p align="center">
         <img src="/assets/img/larger_graph.png" alt="Fig 3: A Graph Representing People, their Friendships, and their Locations">
@@ -102,7 +101,9 @@ Figure [[3]](#fig3) shows a more detailed KG, which is taken directly from [[1]]
     <p align="center"><a name="fig3">Fig 3:</a> A Graph Representing People, their Friendships, and their Locations</p>
 </figure> -->
 
-We can see in Fig [[3]](#fig3) that each node has a label that represents a role in the graph. We can see that some nodes are labelled as `Person`, which represents people,  and others are labelled as `Place`, which represents places. As each node will have properties stored inside, such as `name: Rose`, and `gender: 'f'`, which tells us the Rosa is a female person. We can also see that `Karl` and `Fred` have nodes with slightly different properties, and this is not a problem<sup>[2](#myfootnote2)</sup>.
+We can see in Fig [[3]](#fig3) that each node has a label that represents a role in the graph. We can see that some nodes are labelled as `Person`, which represents people,  and others are labelled as `Place`, which represents places.
+
+As each node will have properties stored inside, such as `name: Rose`, and `gender: f`, which tells us the Rosa is a female person. We can also see that `Karl` and `Fred` have nodes with slightly different properties, and this is not a problem<sup>[2](#myfootnote2)</sup>.
 
 We can see in Fig. [[3]](#fig3) that the relations are deeper because they have a type, a direction and can have operational properties on them. We can see from the figure that the `Person` with the property `name: Rosa` has an outgoing `LIVES_IN` relationship with the property `since: 2020` to the `Place` node with `city: Berlin` property.
 
@@ -122,8 +123,9 @@ KGs are a specific type of graph, with an emphasis on contextual understanding, 
 --------------------------
 ## Footnotes
 
-<a name="myfootnote1">1</a>: A key-value pair (KVP) is a data structure that associates two related pieces of data, a key and a value. A key is a constant that defines the data set. For example, a key could be "gender" or "colour". A value is a variable that belongs to the data set. For example, a value could be "male/female" or "green".      
-<a name="myfootnote2">2</a>: If we wanted to make sure that all `person` nodes have the same property keys, we can apply *constraints* to the label, ensuring those properties exist, are unique, etc.
+<a name="myfootnote1">1</a>: A key-value pair (KVP) is a data structure that associates two related pieces of data, a key and a value. A key is a constant that defines the data set. For example, a key could be "gender" or "colour". A value is a variable that belongs to the data set. For example, a value could be "male/female" or "green".
+
+<a name="myfootnote2">2</a>: If we wanted to make sure that all `person` nodes have the same property keys, we can apply _constraints_ to the label, ensuring those properties exist, are unique, etc.
 
 ## References
 
