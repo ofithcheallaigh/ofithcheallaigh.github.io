@@ -101,7 +101,7 @@ Figure [[3]](#fig3) shows a more detailed KG, which is taken directly from [[1]]
     <p align="center"><a name="fig3">Fig 3:</a> A Graph Representing People, their Friendships, and their Locations</p>
 </figure> -->
 
-We can see in Fig [[3]](#fig3) that each node has a label that represents a role in the graph. We can see that some nodes are labelled as `Person`, which represents people,  and others are labelled as `Place`, which represents places.
+We can see in Fig [[3]](#fig3) that each node has a label that represents a role in the graph. We can see that some nodes are labelled as `Person`, which represents people, and others are labelled as `Place`, which represents places.
 
 As each node will have properties stored inside, such as `name: Rose`, and `gender: f`, which tells us the Rosa is a female person. We can also see that `Karl` and `Fred` have nodes with slightly different properties, and this is not a problem<sup>[2](#myfootnote2)</sup>.
 
@@ -119,8 +119,8 @@ Decision making needs to be quick, but organisations can be slow to react due to
 
 KGs are a specific type of graph, with an emphasis on contextual understanding, meaning they should not be confused with the type of graph used to display information. They are an way to describe real-world details (such as things, places, events) through a linked set of facts. This information is given in a way that is understandable by humans, and by machines. KGs use an operating principle to allow an operator (be that a person, or a computer) to reason about the data in the graph. This operating principle, or organising principle, provides an additional layer of data (metadata) that will add connected context, which can be used to support reasoning and knowledge discovery.
 
+---
 
---------------------------
 ## Footnotes
 
 <a name="myfootnote1">1</a>: A key-value pair (KVP) is a data structure that associates two related pieces of data, a key and a value. A key is a constant that defines the data set. For example, a key could be "gender" or "colour". A value is a variable that belongs to the data set. For example, a value could be "male/female" or "green".
