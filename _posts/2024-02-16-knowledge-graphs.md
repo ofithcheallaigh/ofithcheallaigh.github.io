@@ -133,4 +133,4 @@ KGs are a specific type of graph, with an emphasis on contextual understanding, 
 
 <a name="ref2">[2]</a> [Graph Developer's Guide for Property Graphs](https://docs.oracle.com/en/database/oracle/property-graph/24.4/spgdg/introduction-property-graphs.html)
 
-<!-- For more information, check out my [next post]({% post_url 2024-02-17-building-knowledge-graphs %}). -->
+For more information, check out my [next post]({% post_url 2024-02-17-building-knowledge-graphs %}).
