@@ -7,5 +7,8 @@ tags: F1, EDA, Projects, Development
 categories: Research
 ---
 
+# Introduction
+
+Sometimes you get a dataset (should it be data set?) that is just huge. And that seems to be the case with the [Fast F1](https://docs.fastf1.dev/index.html) dataset. This thing will gibe you lap times, car telemetry, wether data, tyre data, and not just for the race, for the practice session, and the qualification races too. It will even give you inforation on the team colour!
 # The Dataset
 The dataset is huge!
