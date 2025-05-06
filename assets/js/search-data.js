@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-building-knowledge-graphs",
+        },{id: "post-exploring-the-f1-dataset",
+      
+        title: "Exploring the F1 Dataset",
+      
+      description: "Initial work done using the Fast F1 API to explore F1 data",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/exploring-the-f1-dataset/";
+        
+      },
+    },{id: "post-building-knowledge-graphs",
       
         title: "Building Knowledge Graphs",
       
