@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: SÓF # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Federated Thoughts: AI, Society, and Beyond # blog_name will be displayed in your blog page
+blog_description: A space to explore AI topics and research, as well as trying to unerstand that world, and the pople in it. And there will probably be some posts about jazz too.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
