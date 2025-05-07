@@ -123,16 +123,14 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Artificial Intelligence",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "AI",
+        "Machine Learning",
+        "Data Analysis",
+        "Software Development"
       ]
     }
   ],
