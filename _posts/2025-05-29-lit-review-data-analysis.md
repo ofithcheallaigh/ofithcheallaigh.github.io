@@ -22,6 +22,7 @@ Note: I found out after my initial work, I could filter futher for journal artic
 One thing that stands out from just looking at the information Scopus returns in the growing interst in federated learning. This can be seen in the following graph, from Scopus:
 
 ![Journals by Year](/assets/img/Blog/scopus_fl_journals_by_year.png)
+
 <div class="caption text-center">
     <i>Federated Learning Journal Articles Published by Year (Scopus)</i>
 </div>  <br>
@@ -38,6 +39,7 @@ Scopus allows you to populate a page with 200 search results, so to get my data,
 Scopus also allowed me to export what I callthe meta data for my search results, in the form of a `.csv` file also, but I had a lot of issues reading that in with `pandas` -- there was some encoding issue it wasn't happy with, and the quickest way I could solve that was to save that data as an `.xlsx` files, and read it is using the `read_excel` function. 
 
 ![Quick look at the data](/assets/img/Blog/scopus_fl_journals_dataset_head.png)
+
 <div class="caption text-center">
     <i>Federated Learning Journal Dataset</i>
 </div>  <br>
@@ -96,6 +98,7 @@ So, not I am starting to get a feel for the types of journals I should be lookin
 We can take a look at the subject areas where the federated learning articles are being published. The meta data is useful for the work going forward:
 
 ![Quick look at the data](/assets/img/Blog/scopus_fl_subject_areas.png)
+
 <div class="caption text-center">
     <i>Number of FL Journal Publications by Subject Area</i>
 </div>  <br>
@@ -105,6 +108,7 @@ I don't think it will really surprise anyone that Computer Science and Engineeri
 The next plot did surprise me though, and it is journal articles published by country:
 
 ![Quick look at the data](/assets/img/Blog/scopus_fl_journals_country.png)
+
 <div class="caption text-center">
     <i>Number of FL Journal Publications by Country</i>
 </div>  <br>
@@ -112,6 +116,7 @@ The next plot did surprise me though, and it is journal articles published by co
 We can see that China is, by a long way, publishing more federated learning related journal articles than anyone else. To pie chart below drives this point home a but more:
 
 ![Quick look at the data](/assets/img/Blog/scopus_fl_journals_country_pie.png)
+
 <div class="caption text-center">
     <i>Pie Chart Showing the Number of FL Journal Publications by the Top 10 Country</i>
 </div>  <br>
@@ -162,6 +167,7 @@ plt.show()
 ```
 
 ![Quick look at the data](/assets/img/Blog/scopus_fl_affiliations.png)
+
 <div class="caption text-center">
     <i>Pie Chart Showing the Number of FL Journal Publications by the Top 10 Country</i>
 </div>  <br>
@@ -173,6 +179,7 @@ We can see that the `Ministry of Education of the People's Republic of Chain` is
 The last bit of work for now, is looking at the keywords associated with these 1000 articles. The Word Cloud below shows these:
 
 ![Quick look at the data](/assets/img/Blog/scopus_fl_keywords.png)
+
 <div class="caption text-center">
     <i>FL Journal Publication Keywords</i>
 </div>  <br>
