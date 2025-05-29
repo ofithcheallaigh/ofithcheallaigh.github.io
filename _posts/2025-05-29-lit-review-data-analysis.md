@@ -89,6 +89,8 @@ The Top 10 are:
 | IEEE Transactions on Information Forensics and Security   | 20          | 6.3           |
 | ACM Computing Surveys                                     | 18          | 23.8          |
 
+<br>
+
 The top journal is `IEEE Internet of Things Journal`. Journals will public metrics to try and help researchers (and others) get a feel for how important the journal is, but it really isn't the only consideration when assessing how good a journal is. Other things, such as topic area and so on will come into play. But I think it is fair to say anything published by the IEEE or Elsevier, as all but the ACM Computing Surveys is, will be top quality papers. I know less about ACM, but given the impact factor, and the citations (which, I know, are linked), I am confident saying it is top quality too.
 
 ## Digging Deeper
@@ -115,7 +117,10 @@ The next plot did surprise me though, and it is journal articles published by co
 
 We can see that China is, by a long way, publishing more federated learning related journal articles than anyone else. To pie chart below drives this point home a but more:
 
-![Quick look at the data](/assets/img/Blog/scopus_fl_journals_country_pie.png)
+
+<div style="text-align: center;">
+    <img src="../assets/img/Blog/scopus_fl_journals_country_pie.png" alt="FL Journal Publication Keywords">
+</div>
 
 <div class="caption text-center">
     <i>Pie Chart Showing the Number of FL Journal Publications by the Top 10 Country</i>
