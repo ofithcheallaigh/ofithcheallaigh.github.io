@@ -117,19 +117,17 @@ The next plot did surprise me though, and it is journal articles published by co
 
 We can see that China is, by a long way, publishing more federated learning related journal articles than anyone else. To pie chart below drives this point home a but more:
 
-<!-->
-<div style="text-align: center;">
-    <img src="../assets/img/Blog/scopus_fl_journals_country_pie.png" alt="FL Journal Publication Keywords">
-</div>
--->
 
-<div class="row mt-3">
+<!-- <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="../assets/img/Blog/scopus_fl_journals_country_pie.png" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Image shows Property Graph relationships.
+</div> -->
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="../assets/img/Blog/scopus_fl_journals_country_pie.png" class="img-fluid" %}
+    </div>
 </div>
 
 <div class="caption text-center">
