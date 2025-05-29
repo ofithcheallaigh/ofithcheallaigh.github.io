@@ -6,7 +6,8 @@
 
 :root {
   --global-bg-color: #{$white-color};
-  --global-code-bg-color: #{$code-bg-color-light};
+  // --global-code-bg-color: #{$-bcodeg-color-light};
+  --global-code-bg-color: #f5f5f5; /* Light gray background for code snippets */
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
   // --global-theme-color: #{$purple-color};
