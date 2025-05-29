@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-exploring-the-f1-dataset",
+        },{id: "post-literature-review-prep",
+      
+        title: "Literature Review Prep",
+      
+      description: "Some data analysis on Scopus data to prepare for a lit. review",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/lit-review-data-analysis/";
+        
+      },
+    },{id: "post-exploring-the-f1-dataset",
       
         title: "Exploring the F1 Dataset",
       
