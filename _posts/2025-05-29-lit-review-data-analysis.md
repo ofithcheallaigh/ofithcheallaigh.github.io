@@ -26,7 +26,7 @@ One thing that stands out from just looking at the information Scopus returns in
 <div class="caption text-center">
     <i>Federated Learning Journal Articles Published by Year (Scopus)</i>
 </div>  <br>
-For 2024, Scopus listed 5735 joural articles in their database, as of May, 2025, they already have 6020 articles listed. So there is growing interest in federated learning.
+For 2024, Scopus listed 5735 joural articles in their database, as of May, 2025, they already have 6020 articles listed. So there is growing interest in federated learning (FL).
 
 <br>
 
