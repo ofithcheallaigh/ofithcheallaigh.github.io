@@ -66,6 +66,7 @@ And surverys are great! They help you get an initial understanding, and most peo
 From here, I wanted to see what journals are publishing new research. These then to be the transactions in specific areas. I decided to look at the amount of papers that each journal has published, thinking this seemed like a good metric -- people want their work publiched in the best places, and will target them.
 
 So:
+
 ```python
 # Count the occurrences of each "Source title"
 source_title_counts_1000 = paper_data_df["Source title"].value_counts()
@@ -76,18 +77,18 @@ source_title_counts_1000.head(10)
 
 The Top 10 are:
 
-| Journal Title                                               | Paper Count  | Impact Factor  |
-| ----------------------------------------------------------- | ------------ | -------------- |
-| IEEE Internet of Things Journal                             | 98           | 8.2            |
-| IEEE Transactions on Mobile Computing                       | 55           | 7.7            |
-| IEEE Transactions on Consumer Electronics                   | 51           | 4.3            |
-| IEEE Access                                                 | 33           | 3.4            |
-| IEEE Transactions on Wireless Communications                | 30           | 8.9            |
-| IEEE Transactions on Neural Networks and Learning Systems   | 25           | 10.2           |
-| Future Generation Computer Systems                          | 23           | 6.2            |
-| Expert Systems with Applications                            | 21           | 7.5            |
-| IEEE Transactions on Information Forensics and Security     | 20           | 6.3            |
-| ACM Computing Surveys                                       | 18           | 23.8           |
+| Journal Title                                             | Paper Count | Impact Factor |
+| --------------------------------------------------------- | ----------- | ------------- |
+| IEEE Internet of Things Journal                           | 98          | 8.2           |
+| IEEE Transactions on Mobile Computing                     | 55          | 7.7           |
+| IEEE Transactions on Consumer Electronics                 | 51          | 4.3           |
+| IEEE Access                                               | 33          | 3.4           |
+| IEEE Transactions on Wireless Communications              | 30          | 8.9           |
+| IEEE Transactions on Neural Networks and Learning Systems | 25          | 10.2          |
+| Future Generation Computer Systems                        | 23          | 6.2           |
+| Expert Systems with Applications                          | 21          | 7.5           |
+| IEEE Transactions on Information Forensics and Security   | 20          | 6.3           |
+| ACM Computing Surveys                                     | 18          | 23.8          |
 
 The top journal is `IEEE Internet of Things Journal`. Journals will public metrics to try and help researchers (and others) get a feel for how important the journal is, but it really isn't the only consideration when assessing how good a journal is. Other things, such as topic area and so on will come into play. But I think it is fair to say anything published by the IEEE or Elsevier, as all but the ACM Computing Surveys is, will be top quality papers. I know less about ACM, but given the impact factor, and the citations (which, I know, are linked), I am confident saying it is top quality too.
 
