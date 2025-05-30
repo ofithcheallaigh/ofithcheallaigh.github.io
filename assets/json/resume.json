@@ -126,13 +126,23 @@
       "name": "Artificial Intelligence",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["AI","Big Data","Machine Learning","Deep Learning","Project Management","Exploratory Data Analysis","Software Development","Experimentation and Evaluation","Scientific Writing"]
+      "keywords": [
+        "AI",
+        "Big Data",
+        "Machine Learning",
+        "Deep Learning",
+        "Project Management",
+        "Exploratory Data Analysis",
+        "Software Development",
+        "Experimentation and Evaluation",
+        "Scientific Writing"
+      ]
     },
     {
       "name": "Electronic Engineering",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["PCB design","Module Tevel Testing","Data Collection","Data Analaysis"]
+      "keywords": ["PCB design", "Module Tevel Testing", "Data Collection", "Data Analaysis"]
     }
   ],
   "languages": [
