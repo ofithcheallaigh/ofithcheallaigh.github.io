@@ -205,4 +205,4 @@ Hopefully, more to come. Soon!
 
 <a name="myfootnote1">1</a>: From the Scopus webiste: Scopus is a "Comprehensive, multidisciplinary, trusted abstract and citation database". Researchers and other interested parties can use Scopus to look for peer-reviewed published work om a wide range of topics.
 
-<a name="myfootnote2">2</a>: Source link: https://dl.acm.org/journal/csur/editorial-charter
+<a name="myfootnote2">2</a>: Source link: [ACM Computing Surveys Editorial Charter](https://dl.acm.org/journal/csur/editorial-charter)
