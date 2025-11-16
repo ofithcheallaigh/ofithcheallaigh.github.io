@@ -16,7 +16,7 @@ profile:
     Belfast, BT15 1AP</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -35,8 +35,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+I'm a PhD researcher working in AI at Ulster University, focusing on Federated Learning (FL). I previoulsy worked as an electronics engineer, working on the development of tyre pressure sensors in the automotive industry.
 
-
-I'm a PhD researcher working in AI at Ulster University, focusing on Federated Learning (FL). I previoulsy worked as an electronics engineer, working in the development of tyre pressure sensors, for the automotive industry.
-
-My current research is related to the development of a trustworthy federated learning system, and you can find my first published paper in the selected publications section below. I also have an interest in quantum computing and quantum machine learning.
+My current research is related to the development of a trustworthy federated learning system, specifically, a FL system for constrained devices. You can find my first published paper in the selected publications section below. I also have an interest logic, ontologies and knowledge representation.
