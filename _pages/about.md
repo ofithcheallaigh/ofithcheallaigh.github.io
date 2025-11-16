@@ -3,12 +3,12 @@ layout: about
 title: about
 permalink: /
 subtitle: |
-  PhD Researcher in AI (Pervasive Computing Research Centre)
+  PhD Researcher in AI (Pervasive Computing Research Centre),<br>
   BTIIC Researcher (IoT and Automation)
 profile:
   align: right
   image: me.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Ulster University,<br>
     Room BC-04-315,<br>
