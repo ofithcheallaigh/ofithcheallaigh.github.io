@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: __PhD Researcher in AI (Pervasive Computing Research Centre) <br> BTIIC Researcher (IoT and Automation)__ 
+subtitle: |
+  PhD Researcher in AI (Pervasive Computing Research Centre)
+  BTIIC Researcher (IoT and Automation) 
 
 profile:
   align: right
