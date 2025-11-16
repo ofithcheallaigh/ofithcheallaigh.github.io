@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Researcher in AI (Pervasive Computing Research Centre) | BTIIC Researcher (IoT and Automation) | Not a TEDx Speaker
+subtitle: PhD Researcher in AI (Pervasive Computing Research Centre) 
+| BTIIC Researcher (IoT and Automation)
 
 profile:
   align: right
