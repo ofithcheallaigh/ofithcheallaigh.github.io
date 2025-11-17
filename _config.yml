@@ -89,7 +89,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Federated Thoughts <br> - AI and Beyond # blog_name will be displayed in your blog page
-blog_description: A space to explore AI topics and research, as well as trying to unerstand that world, and the pople in it. And there will probably be some posts about jazz too.
+blog_description: A space to explore AI topics and research, as well as trying to understand that world, and the pople in it. And there will probably be some posts about jazz too.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
