@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-literature-review-prep",
+        },{id: "post-the-future-is-federated",
+      
+        title: "The Future is Federated",
+      
+      description: "Introduction to Federated Learning",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/intro-federated-learning/";
+        
+      },
+    },{id: "post-literature-review-prep",
       
         title: "Literature Review Prep",
       
