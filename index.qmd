@@ -40,7 +40,7 @@ Before moving into AI research, I worked in industry as a hardware and software 
     <li class="edu"><div class="label"><strong>2023</strong>MSc Artificial Intelligence<br>Ulster University</div></li>
     <li class="edu"><div class="label"><strong>2024–now</strong>PhD Artificial Intelligence<br>Ulster University<br>Full-time from 2025</div></li>
     <li class="work"><div class="label"><strong>2024</strong>Software &amp; System Engineer<br>Sensata Technologies</div></li>
-    <li class="note"><div class="label"><strong>2024</strong>Left Sensata Technologies</div></li>
+    <li class="note"><div class="label"><strong>2024</strong>Left Sensata<br>Technologies</div></li>
     <li class="work"><div class="label"><strong>2025</strong>Visiting Researcher (BTIIC)<br>Ulster University</div></li>
     <li class="work"><div class="label"><strong>2026</strong>PCRC Living Lab<br>Ulster University</div></li>
     <li class="work"><div class="label"><strong>2026</strong>Part-time Lecturer<br>Ulster University</div></li>
