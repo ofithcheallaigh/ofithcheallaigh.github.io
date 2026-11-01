@@ -1,5 +1,6 @@
 ---
 pagetitle: "Seán Ó Fithcheallaigh"
+toc: false
 resources:
   - assets/img/me.png
 ---
