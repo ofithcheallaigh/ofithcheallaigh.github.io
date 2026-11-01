@@ -257,3 +257,12 @@
   max-width: 46rem;
 }
 
+a {
+  color: #1f7a8c;
+}
+
+a:hover {
+  color: #155e6d;
+}
+
+
