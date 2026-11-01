@@ -17,6 +17,7 @@ resources:
 </section>
 ```
 
+::: {.home-section}
 ## About
 
 I'm a PhD researcher at Ulster University, where I also lecture part-time. My research looks at how networks of resource-constrained devices can train machine learning models together without sharing raw data, and how to decide which devices should work together and which to trust.
@@ -24,6 +25,7 @@ I'm a PhD researcher at Ulster University, where I also lecture part-time. My re
 Before moving into AI research, I worked in industry as a hardware and software engineer at Schrader Electronics and Sensata Technologies. That background shapes my focus on systems that work on real, constrained hardware.
 
 ## Education and experience
+:::
 
 ```{=html}
 <div class="timeline-wrap">
